@@ -1,4 +1,5 @@
-Word Count Histogram
+**Word Count Histogram**
+
 This web app fetches the contents of a text file, counts the frequency of occurrence of each word, and then displays a histogram of the 20 most occurring words. The user can also export the histogram data as a CSV file.
 
 Usage:
