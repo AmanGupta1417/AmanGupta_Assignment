@@ -1,0 +1,50 @@
+
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+h1 {
+  font-size: 48px;
+  margin-top: 0;
+  margin-bottom: 32px;
+  color: white;
+  text-shadow: 2px 2px 5px #000;
+}
+
+button {
+  font-size: 24px;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 4px;
+  background-color: #2196f3;
+  color: white;
+  cursor: pointer;
+  box-shadow: 2px 2px 5px #000;
+  transition: all 0.2s ease-in-out;
+}
+
+button:hover {
+  background-color: #1976d2;
+}
+
+canvas {
+  margin-top: 32px;
+  margin-bottom: 32px;
+  border-radius: 4px;
+  box-shadow: 2px 2px 5px #000;
+}
+
+button:last-of-type {
+  margin-top: 32px;
+}
+
+.credits {
+  font-size: 16px;
+  color: white;
+  text-shadow: 1px 1px 3px #000;
+}
