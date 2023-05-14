@@ -3,7 +3,8 @@
 This is a React web application that fetches the contents of a text file from a remote server and generates a histogram of the 20 most occurring words in the text. The application also provides an "Export" button that allows the user to download a CSV file of the histogram data.
 
 
-**Components**
+
+**Components:**
 
 The application consists of two main components:
 
@@ -11,7 +12,8 @@ The application consists of two main components:
 2. App.css - This is the CSS file that styles the application and adds animations to make it more visually appealing.
 
 
-**Libraries and Plugins Used**
+
+**Libraries and Plugins Used:**
 
 
 The following libraries and plugins were used to build this application:
@@ -20,6 +22,7 @@ The following libraries and plugins were used to build this application:
 2. Chart.js - A JavaScript library for creating charts and graphs.
 3. eslint - A tool for identifying and reporting on patterns found in JavaScript code, with the goal of making code more consistent and avoiding bugs.
 4. Prettier - A code formatter that ensures consistent styling and formatting across code files.
+
 
 
 **Usage:**
@@ -32,12 +35,14 @@ If the histogram is successfully generated, you can view it on the screen along 
 Click on the "Export" button to download the histogram data in CSV format.
 
 
+
 **Built With:**
 
 
 React - JavaScript library for building user interfaces.
 
 Chart.js - JavaScript charting library.
+
 
 
 **Installation:**
@@ -54,9 +59,11 @@ To run this application locally, you need to have Node.js and npm installed on y
 4. Open a web browser and go to http://localhost:3000 to view the application.
 
 
+
 **Author**
 
 Aman Gupta
+
 
 
 **Acknowledgments**
