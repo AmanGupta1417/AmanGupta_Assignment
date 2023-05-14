@@ -5,12 +5,14 @@ This web app fetches the contents of a text file, counts the frequency of occurr
 **Usage:**
 
 Click the "Submit" button to fetch the text file contents and generate the histogram.
+
 Once the histogram is generated, the "Export" button will be enabled. Click it to download a CSV file of the histogram data.
 
 **Built With**
 
-React - JavaScript library for building user interfaces
-Chart.js - JavaScript charting library
+React - JavaScript library for building user interfaces.
+
+Chart.js - JavaScript charting library.
 
 **Author**
 
