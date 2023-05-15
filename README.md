@@ -56,7 +56,7 @@ To run this application locally, you need to have Node.js and npm installed on y
 
 3. Run npm start to start the development server.
 
-4. Open a web browser and go to http://localhost:3000 to view the application.
+4. Open a web browser and go to https://wordcounthistogram.netlify.app/ to view the application.
 
 
 
